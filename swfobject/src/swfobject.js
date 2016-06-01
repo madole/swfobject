@@ -4,7 +4,7 @@
 
 /* global ActiveXObject: false */
 
-var swfobject = function () {
+module.exports = function () {
 
     var UNDEF = "undefined",
         OBJECT = "object",
